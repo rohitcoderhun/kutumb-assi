@@ -1,0 +1,11 @@
+#quoteButton{
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: right;
+    margin-left: 85%;
+    font-size: 15px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(24, 23, 21);
+    color: antiquewhite;
+}
