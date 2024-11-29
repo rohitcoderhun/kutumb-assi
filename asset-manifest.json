@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kutumb-assi/static/css/main.2eff137f.css",
+    "main.js": "/kutumb-assi/static/js/main.b1ac881a.js",
+    "static/js/453.358b635b.chunk.js": "/kutumb-assi/static/js/453.358b635b.chunk.js",
+    "static/media/codeimg.jpg": "/kutumb-assi/static/media/codeimg.82442ea92ba06ca3e0e3.jpg",
+    "index.html": "/kutumb-assi/index.html",
+    "main.2eff137f.css.map": "/kutumb-assi/static/css/main.2eff137f.css.map",
+    "main.b1ac881a.js.map": "/kutumb-assi/static/js/main.b1ac881a.js.map",
+    "453.358b635b.chunk.js.map": "/kutumb-assi/static/js/453.358b635b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eff137f.css",
+    "static/js/main.b1ac881a.js"
+  ]
+}
