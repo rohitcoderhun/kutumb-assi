@@ -13,6 +13,15 @@ let router=createBrowserRouter([
     element:<App/>
   },
   {
+    path:'/kutumb-assi',
+    element:<App/>
+  },
+  {
+    path:'/login',
+    element:<App/>
+  },
+
+  {
     path:'/quotes',
     element:<Quote/>
   },
